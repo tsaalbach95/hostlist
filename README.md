@@ -13,4 +13,4 @@
 https://en.wikipedia.org/wiki/Private_network
 <br>
 <br>
-#genratet with Powershell-Script
+#generated with Powershell-Script
