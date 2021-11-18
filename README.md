@@ -11,3 +11,6 @@
 #Class C: 192.168.0.0 — 192.168.255.255
 <br>
 https://en.wikipedia.org/wiki/Private_network
+<br>
+<br>
+#genratet with Powershell-Script
